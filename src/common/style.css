@@ -49,6 +49,22 @@
   padding: 16px;
 }
 
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
 @media screen and (max-width: 960px) {
   .fa-caret-down {
     display: none;
